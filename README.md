@@ -9,3 +9,6 @@
     - Cropping voxel, for processing vert_list.csv: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/stage2-preprocessing-sagittal-view-labels-only.ipynb
     - Cropping voxel: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/preprocessing-stage-2-cropping-voxel.ipynb
 4. stage 2: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/stage-2-cracknet-lstm-yolo-window.ipynb
+
+### Please check more visualizable total methodology from the pdf file attached.
+
