@@ -10,5 +10,7 @@
     - Cropping voxel: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/preprocessing-stage-2-cropping-voxel.ipynb
 4. stage 2: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/stage-2-cracknet-lstm-yolo-window.ipynb
 
-### Please check more visualizable total methodology from the pdf file attached.
+
+### Please check more visualizable total methodology from the pdf file attached
+https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/CSFD%20through%20Two-stage%20Approach%20of%20Mask%20Segmentation%20and%20Windowing%20based%20on%20Convolutional%20Neural%20Network.pdf
 
