@@ -1,4 +1,3 @@
-# Cervical-Spine-Fracture-Detection-Conference
 ## Total processes on two-stage approach + corresponding ipynb notebook titles
 1. preprocessing stage 1: **windowing-preprocessing-technique-dataset.ipynb**
 2. stage 1 (multilabel): **stage-1-window-multilabel.ipynb**
