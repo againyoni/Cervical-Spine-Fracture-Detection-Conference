@@ -1,5 +1,5 @@
 # Cervical-Spine-Fracture-Detection-Conference
-### Total processes on two-stage approach
+### Total processes on two-stage approach + internal links
 1. preprocessing stage 1: https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/windowing-preprocessing-technique-dataset.ipynb
 2. stage 1 (multilabel): https://github.com/againyoni/Cervical-Spine-Fracture-Detection-Conference/blob/main/ipynb%20notebooks/stage-1-window-multilabel.ipynb
 3. preprocessing stage 2:
